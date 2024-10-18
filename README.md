@@ -1,3 +1,5 @@
+<b>This repository is archived, to be superseded by the cardano-hydrozoa/hydrozoa repository when it becomes public ("soon").</b>
+
 # Hydrozoa: Lightweight and scalable Hydra Heads
 
 <i>By George Flerovsky</i>
